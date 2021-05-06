@@ -1,4 +1,4 @@
-## **Posts**
+## **Social Media Posts**
 ---
 > #### COLOR:
 <span style="color:#ff0000">#ff0000</span>
